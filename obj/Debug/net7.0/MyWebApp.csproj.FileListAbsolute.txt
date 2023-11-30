@@ -1,0 +1,60 @@
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\appsettings.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\MyWebApp.exe
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\MyWebApp.deps.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\MyWebApp.runtimeconfig.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\MyWebApp.dll
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\bin\Debug\net7.0\MyWebApp.pdb
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfoInputs.cache
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfo.cs
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cache
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cs
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApp.props
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApp.props
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApp.props
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\scopedcss\bundle\MyWebApp.styles.css
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.dll
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\refint\MyWebApp.dll
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
+C:\KULIAH\SEM5\KTI\Azure\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\appsettings.Development.json
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\appsettings.json
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\MyWebApp.exe
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\MyWebApp.deps.json
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\MyWebApp.runtimeconfig.json
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\MyWebApp.dll
+A:\..Semester 5\Keamanan TI\MyWebApp\bin\Debug\net7.0\MyWebApp.pdb
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfoInputs.cache
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfo.cs
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.CoreCompileInputs.cache
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cache
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cs
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApp.props
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApp.props
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApp.props
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets.build.json
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\staticwebassets.development.json
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\scopedcss\bundle\MyWebApp.styles.css
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.dll
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\refint\MyWebApp.dll
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
+A:\..Semester 5\Keamanan TI\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
