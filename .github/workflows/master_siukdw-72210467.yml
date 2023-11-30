@@ -54,4 +54,4 @@ jobs:
           app-name: 'SIUKDW-72210467'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_614DEA0218FF41EEA46DCE4E1B569D3B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9366B45EE55459BA1E3D0B471324B13 }}
