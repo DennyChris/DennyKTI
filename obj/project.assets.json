@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\..Semester 5\\Keamanan TI\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "A:\\..Semester 5\\Keamanan TI\\New folder\\DennyKTI\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "A:\\..Semester 5\\Keamanan TI\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "A:\\..Semester 5\\Keamanan TI\\New folder\\DennyKTI\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\gmali\\.nuget\\packages\\",
-      "outputPath": "A:\\..Semester 5\\Keamanan TI\\MyWebApp\\obj\\",
+      "outputPath": "A:\\..Semester 5\\Keamanan TI\\New folder\\DennyKTI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gmali\\AppData\\Roaming\\NuGet\\NuGet.Config"
